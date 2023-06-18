@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/timesheet-cacluator-pages/static/css/main.1de87fb9.css",
+    "main.js": "/timesheet-cacluator-pages/static/js/main.aa15cbb0.js",
+    "static/js/787.b685bbee.chunk.js": "/timesheet-cacluator-pages/static/js/787.b685bbee.chunk.js",
+    "index.html": "/timesheet-cacluator-pages/index.html",
+    "main.1de87fb9.css.map": "/timesheet-cacluator-pages/static/css/main.1de87fb9.css.map",
+    "main.aa15cbb0.js.map": "/timesheet-cacluator-pages/static/js/main.aa15cbb0.js.map",
+    "787.b685bbee.chunk.js.map": "/timesheet-cacluator-pages/static/js/787.b685bbee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de87fb9.css",
+    "static/js/main.aa15cbb0.js"
+  ]
+}
