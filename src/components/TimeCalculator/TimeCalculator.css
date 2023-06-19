@@ -1,0 +1,21 @@
+.Full-Week-Component {
+  width: 80em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Full-Week-Component .slider-container {
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+}
+
+.slider-container h5 {
+  text-align: center;
+}
+
+.css-1eoe787-MuiSlider-markLabel {
+  color: #a7d062;
+}
